@@ -1,0 +1,23 @@
+{
+    "name": "arduino nano 33 ble sense",
+    "description": "",
+    "dependencies": {
+        "arduino-nano-33-ble-sense": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "0.15.66",
+        "targetId": "maker"
+    },
+    "supportedTargets": [
+        "maker"
+    ],
+    "preferredEditor": "tsprj"
+}
